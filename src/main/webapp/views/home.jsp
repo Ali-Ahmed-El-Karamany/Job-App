@@ -36,7 +36,7 @@
 					<a class="nav-link" href="/viewAllJobs">All Jobs</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="https://github.com/Ali-Ahmed-El-Karamany/">Contact</a>
+					<a class="nav-link" href="https://www.linkedin.com/in/ali-el-karamany/">Contact</a>
 				</li>
 			</ul>
 		</div>
